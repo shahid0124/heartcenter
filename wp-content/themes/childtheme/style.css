@@ -1,0 +1,3252 @@
+/*
+Theme Name: childtheme
+Version: 1.0
+Description: A child theme of Customizr
+Template: customizr
+Author: Administrator
+*/
+
+/* Your awesome customization starts here */
+
+/*#mega-menu-wrap-main #mega-menu-main > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-columns-2-of-5 {
+    width: 34% !important;
+}
+*/
+/*.navbar-wrapper .navbar.notresp.row-fluid {
+float:              none;
+width:              100%;
+margin:             0 auto;
+}
+*/
+/* START OF Display full-width pages 
+.container { 
+    width: 100% !important;
+}
+#main-wrapper {
+    padding: 0 10px; 
+    -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    box-sizing: border-box;
+}
+/* END OF Display full-width pages */
+/* START OF Adding a multi-line tagline */
+/* START OF Move the Social Icons and Tagline */
+
+ 
+ /**  CSS for Heart Center **/
+
+.row-fluid .span9 
+{
+    width:100% !important;
+}
+
+
+ #tc-reset-margin-top
+ {
+     margin-top:206px !important;
+ }
+ section
+{
+    word-wrap: unset;
+}
+td {
+    border-top: 0px solid #EDEDED !important;
+    padding: 3px 10px;
+}
+ .news-item
+{
+    padding:4px 4px;
+    margin:0px;
+    border-bottom:0px !important; 
+}
+ 
+ tr:nth-child(2n+1) td, tr:nth-child(2n+1) th {
+    background-color: #ffffff;
+}
+table {
+    border-bottom: 0px  !important;
+}
+
+ .queryheading h5
+ {
+     margin-left: 53px;
+     margin-top:-19px;
+     color: #ffffff;
+    
+     
+ }
+ .livequery
+ {
+    width: 230px;
+    position: fixed;
+    right: 25px;
+    bottom: 0px;
+    z-index: 999;
+    background: #C10 none repeat scroll 0% 0%;
+    border: 2px solid #CCC;
+    padding: 3px 16px;
+    border-radius: 20px 20px 0px 0px;
+    height: 40px;
+}
+
+ .livequery
+ {
+     -moz-placeholder {
+    color: inherit;
+    opacity: 1;
+}
+ }
+ .queryimage
+ {
+     width:20px;
+     height: 20px;
+     margin-left: 18px;
+     margin-top:9px;
+ }
+
+.servicessecondline
+{
+    margin-top:118px;
+    
+}
+.serviceheading h5{color:black;}
+/* .serviceheadingsright
+ {
+     margin-left: 432px;
+     margin-top: -250px;
+     width:50%; 
+     height: 50%
+ 
+ }
+.serviceheadingsleft
+ {
+ margin-left: 100px;
+ clear: both;
+ margin-top: 200px;
+ width:50%; 
+ height: 50%
+ }*/
+.om-contact-us-link
+{
+width: 160px;
+height: 75px;
+float: right;
+position: fixed;
+right: -25px;
+top: 28%;
+z-index: 999;
+padding: 5px;
+}
+
+ .serviceimage
+ {
+     width: 150px; 
+     height: 108px;
+ }
+ .middlewrapper
+  {
+    margin-top:50px;
+  }
+  
+
+/* .rowafterslider
+ {
+     border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+  
+     
+ }*/
+ 
+ .doctorappointment:hover
+ {
+    background-color: #C10;
+ }
+ .heading h5
+{
+    margin-left:30px;
+    float: left; 
+    font-size: 15px;
+    color: #f0f0f0;
+    font-weight: bold;
+    margin-top:7%;
+    margin-left: 4%;
+    text-align: center;
+   
+    
+}
+
+ .image
+ {
+     float: left;
+     margin-top:5px; 
+     border-radius: 100px;
+   margin-left: 3%;
+ }
+
+ .innercontent
+ {
+     margin-left: 10px;
+     
+ }
+ .middlebuttons a:hover
+ {
+     background-color: #ff0000;
+     
+ }
+.tc-sticky-header .tc-header {
+    position: fixed;
+    z-index: 100;
+    background-color: #00539B !important;
+    height:170px !important;
+}
+ tc-solid-color-on-scroll.sticky-enabled .tc-header {
+    background-color: #00539B !important;
+    height:170px !important;
+}
+.navbar {
+    position: relative !important;
+    min-height: 50px;
+    margin-bottom: -8px !important;
+    border: 1px solid transparent;
+}
+
+/********** CSS For Heart Center ************/
+
+#footer_one.span4 #text-6.widget_text h3{ text-align:left;}
+.span3{
+width:586px;
+}
+
+.navbar
+{
+float:right;
+margin-bottom:-10px;
+}
+header.tc-header {
+border-bottom: 0;
+}
+
+.navbar-inner .social-block {
+float:          right;
+margin-top:     10px;
+margin-right:   0px;
+
+}
+/* Move Tagline to Left    */
+.navbar-wrapper .navbar h3 {
+clear:both;
+float:          left;
+margin-top:     10px;
+margin-left:    20px;
+text-align:     left;
+}
+
+/* Flyout menu left margin adjustment */
+#mega-menu-wrap-main #mega-menu-main > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item a.mega-menu-link
+{
+margin-left:10px;
+}
+
+
+/* Tagline Display */
+
+
+
+/* Logo Adjustment */
+.tc-header .brand a
+{
+   margin-top:47px;
+}
+
+
+/* END OF Adding a multi-line tagline */
+
+
+.row-fluid .span5 {
+       margin-right:-17px !important;
+	   width:20%;
+	 
+    }
+
+#mega-menu-wrap-main #mega-menu-main > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-columns-1-of-3 {
+    width: 33% !important;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+  background-color:#40ACDB;
+}
+
+/*.navbar-inner .nav-collapse, .navbar-inner .nav-collapse.collapse 
+{
+   margin-left:-3.2%;
+   margin-right:-1.5%;
+}*/
+
+/*#mega-menu-wrap-main #mega-menu-main > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-columns-1-of-5{
+ width:32% !important;
+}*/
+/*a:focus, a:hover {
+    color: #FF0000 !important;
+    text-decoration: underline !important;
+}*/
+
+/*.mega-sub-menu
+{
+width:400px !important;
+background:#40ADCB !important;
+}*/
+/*#mega-menu-item-197 a
+{
+   font-weight:bold !important;
+   color:#FF0000 !Important; 
+}
+
+#mega-menu-item-219 a 
+{
+  font-weight:bold !important ;
+}*/
+
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+   margin-left:50px;
+}
+
+#mega-menu-item-197 a 
+{
+  font-weight:bold !important ;
+ 
+}
+#mega-menu-item-219 a 
+{
+  font-weight:bold !important ;
+ 
+}
+#mega-menu-item-328 a 
+{
+  font-weight:bold !important ;
+ 
+}
+
+#mega-menu-item-337 a 
+{
+  font-weight:bold !important ;
+  margin-top:10px !important;
+}
+
+#mega-menu-item-426 a 
+{
+  font-weight:bold !important ;
+ 
+}
+
+#mega-menu-item-450 a 
+{
+  font-weight:bold !important ;
+ 
+}
+
+#mega-menu-item-471 a 
+{
+  font-weight:bold !important ;
+ 
+}
+#mega-menu-item-521 a 
+{
+  font-weight:bold !important ;
+  font-size:14px !important;
+  text-decoration:none !important;
+  background:transparent none repeat scroll 0% 0% ;
+  opacity:1; 
+}
+#mega-menu-item-187 
+{
+ width:40% !important;
+}
+/*#mega-menu-wrap-main #mega-menu-main > ul.mega-sub-menu {position: relative !important;} */
+/*#mega-menu-item-285 
+{
+ width:38% !important;
+}*/
+/*#mega-menu-item-187 >a 
+{
+  
+  color:#FF0000 !important;
+}*/
+
+
+body {
+    margin: 0;
+    font-size: 14px;
+    line-height: 20px;
+}
+/************* Changes color of the line above the header ***********/
+
+.tc-header {
+    border-top: 5px solid #40ACDB;
+}
+ .row-fluid [class*=span]:first-child {
+        margin-left: 0;
+       
+    }
+
+/********** Navigation menu setting *******/ 
+
+/********** Remove theme menu box Icon ***********/ 
+.navbar .btn-toggle-nav .btn {
+
+display:none;
+}
+
+
+
+.navbar .nav {
+    margin-right: 259px;
+    margin-top: 40px;
+	width:100%;
+}
+
+footer#footer {
+    color: #FAFAFA !important;
+    border-top: 10px solid #E9EAEE;
+    background: #40ACDB none repeat scroll 0% 0% !important;
+    padding: 0px;
+}
+
+footer ol, footer ul {
+    margin: 0px 0px 10px;
+    margin-left: 116px;
+}
+
+footer#footer a, footer#footer p {
+    font-size: 15px;
+    line-height: 21px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.widget_nav_menu h3::before {
+   
+    top: 4px;
+    font-size: 1em;
+    padding-right: 10px;
+}
+
+.widget.widget_nav_menu li::before,{
+   
+    position: relative;
+    left: -10px;
+    transition: left 0.2s ease 0s;
+}
+
+/* NAVIGATION MENU ITEM COLOR CHANGE */ 
+
+
+.navbar .nav > li > a {
+border: 1px solid WHITE;           /* Add a border */
+color: white;                       /* White text */
+background-color:#40ACDB;            /* Change black */
+/*background-image: linear-gradient(to bottom, grey, #40ACDB);*/    /* Change grey, black */
+/*background-image: -webkit-linear-gradient (top, grey, #40ACDB);*/ /* Change grey, black */
+background-repeat: repeat-x;        /* Add shading */
+text-align: center;
+}
+.navbar .nav > li > a:hover {
+color:#FFFFFF;                         /* Red Text on hover */
+background-color:#FF0000;            /* Change black */
+}
+/* Shade the current selected menu item */
+.navbar .nav > li.current-menu-item > a, .navbar .nav > li.current-menu-ancestor > a {
+/*color: red;                         /* Change Text red */
+background-color:#40ACDB;            /* Change Bgrd black */
+/*background-image: linear-gradient(to bottom, WHITE, WHITE);*/    /* Change black, black */
+/*background-image: -webkit-linear-gradient (top, WHITE, WHITE); *//* Change black, black */
+}
+.navbar .nav > li > a, .navbar .nav > li > a:hover {
+border-radius: 10px 10x 10px 10px;     /* No Rounded corners */
+width: 136px;                       /* Fixed width */
+height: 30px;                       /* Fixed height */
+vertical-align: middle;             /* Align text */
+text-align: center;                 /* Center text */
+}
+
+
+#customizr-slider.carousel .item {
+height: 224px;
+min-height: 224px;
+line-height: 224px;
+}
+
+
+/************************************/
+@media all and (min-width:992px)
+{
+
+.siteinfomail
+{
+    font-family:sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+        color: #555; 
+        width:20px; 
+        height:15px ;
+        float:left; 
+        margin-left:46%; 
+        margin-top:6px;
+    
+}
+
+.siteinfopn
+{
+    font-family:sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: #555; 
+        width:20px;
+        height:15px;
+        float:left;
+        margin-left:1%;
+        margin-top:6px;
+}
+    
+ .taginfo .row .col-md-1
+{
+    width: 100% !important;
+    float:left;
+    padding-right: 4%;
+}
+    
+.siteinfopn p
+{
+    font-family:sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: #555; 
+        width:20px;
+        height:15px;
+        float:left;
+      
+        margin-top:6px;
+}
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+
+.ac-container .row .col-md-4
+{
+    margin-left: 4% !important;
+}
+.navbar-wrapper .navbar .site-description
+{
+  margin-right:-26px;
+  margin-top:-42px;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+
+width:104%;
+float:left !important;
+margin-left: -32px;
+margin-top:29px;
+}
+
+.row-fluid .span9
+{
+    margin-top:-42px !important;
+   
+}
+
+.social-block 
+{
+    margin-top:-125px !important;
+}
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+  margin-left:6px;
+}
+
+/*.row-fluid .span7
+{
+  width:189%;
+ }*/
+ 
+.row
+{
+     margin-left: 0px !important;
+}
+/*.main-wrap
+{
+    width:980px !important;
+    float: left !important;
+}
+
+.middlecontainer
+{
+    float:left;
+    width:100%;
+}*/
+
+
+.col-md-4 {
+    width: 100% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: 1% !important;
+    min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+
+.col-md-5 {
+    width: 30.667% !important;
+    margin-top:2% !important;
+    margin-left:0.5% !important;
+    position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.col-md-6
+{
+position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+width: 52% !important;
+margin-left: 2%; 
+}
+
+.col-md-7
+{
+width:20.33% !important;
+margin-left: -9.5%;
+margin-top:4%; 
+}
+.rowafterslider
+{
+   border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:20.5%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:31%
+        
+}
+
+
+.newswrap
+{
+    float:left;
+    width:100%;
+}
+
+.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:2%;
+}
+
+.servicesfirstline
+{
+    float: left;
+    width:100%;
+    margin-left: 4%;
+    margin-top:8%; 
+}
+.serviceheading1
+{
+    width:25%;
+    float: left;
+}
+.serviceheading2
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+.serviceheading3
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicessecondline
+{
+    width:100%;
+    margin-left: 2%;
+    margin-top:0px !important;
+}
+.serviceheading4
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicesthirdline 
+{
+    width:100%;
+    float: left;
+}
+.serviceheading5
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+   
+}
+.serviceheading6
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+    
+}
+
+.consultantwrapper
+{
+    float: left;
+    width:25%;
+    margin-left: -20%;
+    margin-top:4%;
+    
+    
+}
+
+.newswrap .container .row
+{
+    margin-left: 0px !important;
+}
+.container 
+{
+    padding-right: 0px !important;
+    padding-left: 0px !important; 
+    margin-right: 0px !important;
+    margin-left: 0px !important; 
+}
+
+.col-xs-11
+{
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    padding-bottom: 17px !important;
+}
+
+.consultantwrapper .col-md-6
+{
+    width:93% !important;
+    margin-left: 52%;
+}
+
+.imagelast
+{
+    float: left;
+    margin-left: 4%;
+}
+.headinglast h5
+{
+    float:left;
+    color:#ffffff;
+}
+}
+
+
+
+/*@media all and (min-width: 1279px) and (max-width: 1365px) */
+@media all and (min-width:1200px)
+{
+
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+
+.navbar-wrapper .navbar .site-description
+{
+  margin-right:-26px;
+  margin-top:-42px;
+}
+footer#footer {
+width: auto;
+margin: 0 auto;
+}
+
+.taginfo .row .col-md-1
+{
+    width: 100% !important;
+    float:left;
+    padding-right: 8.1%;
+}
+
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+   margin-left:30px;
+}
+#customizr-slider.carousel .item {
+height: 200px;
+min-height: 200px;
+line-height: 200px;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+width:103%;
+float:left !important;
+margin-top:121px !important;
+margin-left: -10px;
+}
+
+.social-block 
+{
+    margin-top:42px !important;
+}
+
+
+.row-fluid .span7 {
+	width: 127%;
+	
+}
+
+.navbar-wrapper .navbar .site-description
+{
+margin-right:-83px;
+}
+
+
+.col-md-4 {
+    width: 30.3333% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: -1% !important;
+}
+
+
+.middlecontainer
+{
+    float:left;
+    width:100%;
+}
+
+
+.rowafterslider
+{
+  border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+
+.servicesthirdline 
+{
+    width:100%;
+    float: left;
+    margin-left:0%; 
+    margin-top:10%;
+}
+.serviceheading5
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+    
+}
+.serviceheading6
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:29%;
+    
+        
+}
+
+#footer_one 
+{
+    margin-left: 7% !important;
+}
+
+/*.newswrap
+{
+    float:left;
+    width:100%;
+    margin-left:-7%;
+    
+}
+
+.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:5%;
+}*/
+
+
+
+/*.newswrap .container .row
+{
+    margin-left: 0px !important;
+}*/
+.consultantimage
+{
+    float:left;
+    margin-left: 7%;
+}
+.consultantname
+{
+    float: left;
+    margin-left: 19%;
+}
+
+[class*="span"]
+{
+    margin-left: 0px !important;
+}
+
+.span4 {
+    width: 360px !important;
+}
+
+.col-md-4 {
+    width: 100% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: 3% !important;
+    min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+
+.col-md-5 {
+    width: 30.667% !important;
+    margin-top:2% !important;
+    margin-left:2.5% !important;
+    position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.col-md-6
+{
+position: relative;
+min-height: 1px;
+padding-left: 25px !important;
+padding-right: 0px !important;
+width: 52% !important;
+}
+
+.col-md-7
+{
+width:20.33% !important;
+margin-left: -9.5%;
+margin-top:4%; 
+}
+.rowafterslider
+{
+   border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:20.5%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:31%
+        
+}
+
+
+.newswrap
+{
+    float:left;
+    width:100%;
+}
+
+.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:2%;
+}
+
+.servicesfirstline
+{
+    float: left;
+    width:100%;
+    margin-left: 2%;
+    margin-top:8%; 
+}
+.serviceheading1
+{
+    width:25%;
+    float: left;
+}
+.serviceheading2
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+.serviceheading3
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicessecondline
+{
+    width:100%;
+    margin-left: 0%;
+    margin-top:0px !important;
+}
+.serviceheading4
+{
+    width:25%;
+    float: left;
+}
+
+
+.consultantwrapper
+{
+    float: left;
+    width:21%;
+    margin-left: -20.5%;
+    margin-top:4%;
+    
+}
+
+.newswrap .container .row
+{
+    margin-left: 0px !important;
+}
+
+
+}
+
+
+@media all and (min-width:1365px)
+{
+
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+.ac-container .row .col-md-4
+{
+    margin-left: 2.5% !important;
+}
+
+.navbar-wrapper .navbar .site-description
+{
+  margin-right:-26px;
+  margin-top:-42px;
+}
+footer#footer {
+width: auto;
+margin: 0 auto;
+}
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+   margin-left:30px;
+}
+#customizr-slider.carousel .item {
+height: 200px;
+min-height: 200px;
+line-height: 200px;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+width:103.5%;
+margin-left:-10px;
+float:left !important;
+margin-top:121px !important;
+}
+
+.social-block 
+{
+    margin-top:42px !important;
+}
+
+.row-fluid .span7 {
+	width: 127%;
+	
+}
+
+
+
+.navbar-wrapper .navbar .site-description
+{
+margin-right:-88px;
+}
+
+.container
+{
+    width:1300px !important;
+}
+
+.col-md-4 {
+    width: 30.3333% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: -1% !important;
+}
+
+.main-wrap
+{
+    width:1208px !important;
+    float: left !important;
+    margin-left: -1.5%;
+    
+} 
+
+
+.middlecontainer
+{
+    float:left;
+    width:100%;
+}
+
+
+.rowafterslider
+{
+  border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+
+.servicesthirdline 
+{
+    width:100%;
+    float: left;
+    margin-left:0%; 
+    margin-top:15%;
+}
+.serviceheading5
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+    
+}
+.serviceheading6
+{
+    width:25%;
+    float: left;
+    margin-left:2%;
+    
+   
+}
+.newsfeedwrapper
+{    float:left;
+     width:29%;
+   
+}
+
+.headinglast h5{
+    float:left;
+    margin-left: 7%;
+    margin-top:7% !important;
+}
+
+/*.newswrap
+{
+    float:left;
+    width:100%;
+    margin-left:-7%;
+    
+}
+
+.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:5%;
+}*/
+
+
+
+/*.newswrap .container .row
+{
+    margin-left: 0px !important;
+}*/
+.consultantimage
+{
+    float:left;
+    margin-left: 7%;
+}
+.consultantname
+{
+    float: left;
+    margin-left: 19%;
+}
+
+[class*="span"]
+{
+    margin-left: 0px !important;
+}
+
+.span4 {
+    width: 360px !important;
+}
+
+.col-md-4 {
+    width: 100% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: 3% !important;
+    min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+
+.col-md-5 {
+    width: 30.667% !important;
+    margin-top:2% !important;
+    margin-left:2.5% !important;
+    position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.col-md-6
+{
+position: relative;
+min-height: 1px;
+padding-left: 25px !important;
+padding-right: 0px !important;
+width: 52% !important;
+}
+
+.col-md-7
+{
+width:20.33% !important;
+margin-left: -9.5%;
+margin-top:4%; 
+}
+.rowafterslider
+{
+   border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:20.5%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:31%
+        
+}
+
+
+.newswrap
+{
+    float:left;
+    width:100%;
+}
+
+/*.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:2%;
+}*/
+
+.servicesfirstline
+{
+    float: left;
+    width:100%;
+    margin-left: 2%;
+    margin-top:8%; 
+}
+.serviceheading1
+{
+    width:25%;
+    float: left;
+}
+.serviceheading2
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+.serviceheading3
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicessecondline
+{
+    width:100%;
+    margin-left: 0%;
+    margin-top:0px !important;
+}
+.serviceheading4
+{
+    width:25%;
+    float: left;
+}
+
+
+.consultantwrapper
+{
+    float: left;
+    width:21%;
+    margin-left: -20.5%;
+    margin-top:4%;
+    
+}
+
+.container .footer-widgets
+{
+    margin-left: 10% !important;
+}
+
+.newswrap .container .row
+{
+    margin-left: 0px !important;
+}
+
+
+}
+@media all and (min-width:1439px)
+{
+
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+.ac-container .row .col-md-4
+{
+    margin-left: 4.5% !important;
+}
+
+.taginfo .row .col-md-1
+{
+    width: 100% !important;
+    float:left;
+    padding-right: 9.6% !important;
+}
+.navbar-wrapper .navbar .site-description
+{
+  margin-right:-26px;
+  margin-top:-42px;
+}
+footer#footer {
+width: auto;
+margin: 0 auto;
+}
+
+.social-block 
+{
+    margin-top:0px !important;
+}
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+   margin-left:30px;
+}
+#customizr-slider.carousel .item {
+height: 200px;
+min-height: 200px;
+line-height: 200px;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+width:103%;
+margin-left:-10px;
+float:left !important;
+margin-top:125px;
+}
+
+.row-fluid .span7 {
+	width: 127%;
+	
+}
+
+.row-fluid .span9 {
+	margin-top:0px !important;
+	
+}
+
+.navbar-wrapper .navbar .site-description
+{
+margin-right:-88px;
+}
+
+.container
+{
+    width:1400px !important;
+}
+
+.col-md-4 {
+    width: 30.3333% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: -1% !important;
+}
+
+.main-wrap
+{
+    width:1208px !important;
+    float: left !important;
+    margin-left: -1.5%;
+    
+} 
+
+
+.middlecontainer
+{
+    float:left;
+    width:100%;
+}
+
+
+.rowafterslider
+{
+  border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+
+.servicesthirdline 
+{
+    width:100%;
+    float: left;
+    margin-left:0%; 
+    margin-top:15%;
+}
+.serviceheading5
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+    
+}
+.serviceheading6
+{
+    width:25%;
+    float: left;
+    margin-left:2%;
+    
+   
+}
+.newsfeedwrapper
+{    float:left;
+     width:29%;
+   
+}
+
+.headinglast h5{
+    float:left;
+    margin-left: 7%;
+    margin-top:7% !important;
+}
+
+/*.newswrap
+{
+    float:left;
+    width:100%;
+    margin-left:-7%;
+    
+}
+
+.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:5%;
+}*/
+
+
+
+/*.newswrap .container .row
+{
+    margin-left: 0px !important;
+}*/
+.consultantimage
+{
+    float:left;
+    margin-left: 7%;
+}
+.consultantname
+{
+    float: left;
+    margin-left: 19%;
+}
+
+[class*="span"]
+{
+    margin-left: 0px !important;
+}
+
+.span4 {
+    width: 360px !important;
+}
+
+.col-md-4 {
+    width: 100% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: 3% !important;
+    min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+
+.col-md-5 {
+    width: 30.667% !important;
+    margin-top:2% !important;
+    margin-left:2.5% !important;
+    position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.col-md-6
+{
+position: relative;
+min-height: 1px;
+padding-left: 25px !important;
+padding-right: 0px !important;
+width: 52% !important;
+}
+
+.col-md-7
+{
+width:20.33% !important;
+margin-left: -9.5%;
+margin-top:4%; 
+}
+.rowafterslider
+{
+   border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:20.5%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:31%
+        
+}
+
+
+.newswrap
+{
+    float:left;
+    width:100%;
+}
+
+/*.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:2%;
+}*/
+
+.servicesfirstline
+{
+    float: left;
+    width:100%;
+    margin-left: 2%;
+    margin-top:8%; 
+}
+.serviceheading1
+{
+    width:25%;
+    float: left;
+}
+.serviceheading2
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+.serviceheading3
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicessecondline
+{
+    width:100%;
+    margin-left: 0%;
+    margin-top:0px !important;
+}
+.serviceheading4
+{
+    width:25%;
+    float: left;
+}
+
+
+.consultantwrapper
+{
+    float: left;
+    width:21%;
+    margin-left: -20.5%;
+    margin-top:4%;
+    
+}
+
+.container .footer-widgets
+{
+    margin-left: 10% !important;
+}
+
+.newswrap .container .row
+{
+    margin-left: 0px !important;
+}
+
+
+}
+
+
+@media all and (min-width:1599px)
+{
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+
+ .ac-container .row .col-md-4
+{
+    margin-left: 1.5% !important;
+}
+
+.taginfo .row .col-md-1
+{
+    width: 100% !important;
+    float:left;
+    padding-right: 9.6% !important;
+}
+.navbar-wrapper .navbar .site-description
+{
+  margin-right:-26px;
+  margin-top:-42px;
+}
+footer#footer {
+width: auto;
+margin: 0 auto;
+}
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+   margin-left:30px;
+}
+#customizr-slider.carousel .item {
+height: 200px;
+min-height: 200px;
+line-height: 200px;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+width:102.5%;
+margin-left:-10px;
+float: left !important;
+margin-top:-5px !important;
+}
+.social-block
+{
+    margin-top:-10px !important;
+}
+.row-fluid .span7 {
+	width: 127%;
+	
+}
+
+.row-fluid .span5 {
+	margin-top:-166px !important;
+	
+}
+
+.navbar-wrapper .navbar .site-description
+{
+margin-right:-88px;
+}
+
+.container
+{
+    width:1550px !important;
+}
+
+.col-md-4 {
+    width: 30.3333% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: -1% !important;
+}
+
+   
+
+.main-wrap
+{
+    width:1208px !important;
+    float: left !important;
+    margin-left: -1.5%;
+    
+} 
+
+
+.middlecontainer
+{
+    float:left;
+    width:100%;
+}
+
+
+.rowafterslider
+{
+  border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+
+.servicesthirdline 
+{
+    width:100%;
+    float: left;
+    margin-left:0%; 
+    margin-top:21.5%;
+}
+.serviceheading5
+{
+    width:25%;
+    float: left;
+    margin-left:2%;
+}
+.serviceheading6
+{
+    width:25%;
+    float: left;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:29%;
+    
+        
+}
+
+
+.consultantimage
+{
+    float:left;
+    margin-left: 24%;
+}
+.consultantname
+{
+    float: left;
+    margin-left: 41% !important; 
+}
+
+[class*="span"]
+{
+    margin-left: 0px !important;
+}
+
+.span4 {
+    width: 360px !important;
+}
+
+.col-md-4 {
+    width: 100% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: 3% !important;
+    min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+
+.col-md-5 {
+    width: 30.667% !important;
+    margin-top:2% !important;
+    margin-left:2.5% !important;
+    position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.col-md-6
+{
+position: relative;
+min-height: 1px;
+padding-left: 25px !important;
+padding-right: 0px !important;
+width: 52% !important;
+float: left;
+    margin-left: 4%;
+}
+.col-md-7
+{
+width:20.33% !important;
+margin-left: -9.5%;
+margin-top:4%; 
+}
+.rowafterslider
+{
+   border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:20.5%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:31%
+        
+}
+
+
+.newswrap
+{
+    float:left;
+    width:100%;
+}
+
+/*.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:2%;
+}*/
+
+.servicesfirstline
+{
+    float: left;
+    width:100%;
+    margin-left: 2%;
+    margin-top:8%; 
+}
+.serviceheading1
+{
+    width:25%;
+    float: left;
+}
+.serviceheading2
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+.serviceheading3
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicessecondline
+{
+    width:100%;
+    margin-left: 0%;
+    margin-top:0px !important;
+}
+.serviceheading4
+{
+    width:25%;
+    float: left;
+}
+
+
+.consultantwrapper
+{
+    float: left;
+    width:21%;
+    margin-left: -21.5%;
+    margin-top:4%;
+    
+}
+
+.container .footer-widgets
+{
+    margin-left: 10% !important;
+}
+
+.newswrap .container .row
+{
+    margin-left: 0px !important;
+}
+
+#footer_one
+{
+    margin-left:20% !important;
+}
+
+}
+
+@media all and (min-width:1679px)
+{
+
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+
+.ac-container .row .col-md-4
+{
+    margin-left: 3.5% !important;
+}
+
+.taginfo .row .col-md-1
+{
+    width: 100% !important;
+    float:left;
+    padding-right: 9.6% !important;
+}
+
+.navbar-wrapper .navbar .site-description
+{
+  margin-right:-26px;
+  margin-top:-42px;
+}
+footer#footer {
+width: auto;
+margin: 0 auto;
+}
+
+#footer_one 
+{
+    margin-left: 24% !important;
+}
+
+.social-block 
+{
+    margin-top:-153px !important;
+}
+
+.row-fluid .span9 {
+    margin-top: -8px !important;
+}
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+   margin-left:30px;
+}
+#customizr-slider.carousel .item {
+height: 200px;
+min-height: 200px;
+line-height: 200px;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+width:102.5%;
+margin-left:-10px;
+float: left !important;
+
+}
+
+
+.row-fluid .span7 {
+	width: 127%;
+	
+}
+
+.navbar-wrapper .navbar .site-description
+{
+margin-right:-88px;
+}
+
+.container
+{
+    width:1600px !important;
+}
+
+.col-md-4 {
+    width: 30.3333% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: -1% !important;
+}
+
+.main-wrap
+{
+    width:1208px !important;
+    float: left !important;
+    margin-left: -1.5%;
+    
+} 
+
+
+.middlecontainer
+{
+    float:left;
+    width:100%;
+}
+
+
+.rowafterslider
+{
+  border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+
+
+
+.newsfeedwrapper
+{    float:left;
+     width:29%;
+    
+        
+}
+
+
+.consultantimage
+{
+    float:left;
+    margin-left: 24%;
+}
+.consultantname
+{
+    float: left;
+    margin-left: 41% !important; 
+}
+
+[class*="span"]
+{
+    margin-left: 0px !important;
+}
+
+.span4 {
+    width: 360px !important;
+}
+
+.col-md-4 {
+    width: 100% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: 3% !important;
+    min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+
+.col-md-5 {
+    width: 30.667% !important;
+    margin-top:2% !important;
+    margin-left:2.5% !important;
+    position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.col-md-6
+{
+position: relative;
+min-height: 1px;
+padding-left: 25px !important;
+padding-right: 0px !important;
+width: 52% !important;
+margin-left: 4%;
+}
+
+.col-md-7
+{
+width:20.33% !important;
+margin-left: -9.5%;
+margin-top:4%; 
+}
+.rowafterslider
+{
+   border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:20.5%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:31%
+        
+}
+
+
+.newswrap
+{
+    float:left;
+    width:100%;
+}
+
+/*.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:2%;
+}*/
+
+.servicesfirstline
+{
+    float: left;
+    width:100%;
+    margin-left: 2%;
+    margin-top:8%; 
+}
+.serviceheading1
+{
+    width:25%;
+    float: left;
+}
+.serviceheading2
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+.serviceheading3
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicessecondline
+{
+    width:100%;
+    float:left;
+    margin-left: 0%;
+    margin-top:0px !important;
+}
+.serviceheading4
+{
+    width:25%;
+    float: left;
+}
+
+.serviceheading5
+{
+    width:25%;
+    float:left;
+    margin-left: 2%;
+   
+   
+}
+.serviceheading6
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+    
+}
+
+.consultantwrapper
+{
+    float: left;
+    width:21%;
+    margin-left: -20.5%;
+    margin-top:4%;
+    
+}
+
+.container .footer-widgets
+{
+    margin-left: 10% !important;
+}
+
+.newswrap .container .row
+{
+    margin-left: 0px !important;
+}
+
+
+}
+
+
+@media all and (min-width : 1899px)
+{
+
+.ac-container
+{
+	width:94% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+
+.ac-container .row .col-md-4
+{
+    margin-left: 2% !important;
+}
+.siteinfomail {
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    color: #555;
+    width: 20px;
+    height: 15px;
+    float: left;
+    margin-left: 61%;
+    margin-top: 8px;
+}
+
+.siteinfopn {
+    font-family: sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    color: #555;
+    width: 20px;
+    height: 15px;
+    float: left;
+    margin-left: 0px;
+    margin-top: 8px;
+}
+
+.taginfo .row .col-md-1
+{
+    width: 100% !important;
+    float:left;
+    padding-right: 9.6% !important;
+}
+
+.doctorinfosection .row .col-md-6
+{
+    width: 100% !important;
+}
+
+.row-fluid .span9
+{
+    margin-top:7px !important;
+}
+
+.row-fluid .span5 {
+    margin-top: -174px !important;
+}
+.social-block
+{
+    margin-top:-174px !important;
+}
+/*.navbar-wrapper {
+    z-index: 200;
+    position: relative;
+    margin-top: -6%;
+    margin-bottom: 0px;
+}*/
+    
+body
+{
+    width: 100%;
+    margin:0px;
+    padding:-0px;
+}
+
+
+
+ .navbar-wrapper .navbar .site-description
+{
+  margin-right:-26px;
+  margin-top:-42px;
+}
+footer#footer {
+width: auto;
+margin: 0 auto;
+}
+#mega-menu-wrap-main #mega-menu-main a.mega-menu-link
+{
+   margin-left:30px;
+}
+#customizr-slider.carousel .item {
+height: 200px;
+min-height: 200px;
+line-height: 200px;
+}
+
+#mega-menu-wrap-main #mega-menu-main
+{
+width:103%;
+margin-left:-1.1%;
+float:left !important;
+margin-top:-19px !important;
+}
+
+.row-fluid .span7 {
+	width: 127%;
+	
+}
+
+
+.navbar-wrapper .navbar .site-description
+{
+margin-right:-88px;
+}
+
+.container
+{
+    width:1880px !important;
+}
+
+.col-md-4 {
+    width: 30.3333% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: -1% !important;
+}
+
+.main-wrap
+{
+    width:1208px !important;
+    float: left !important;
+    margin-left: -1.5%;
+    
+} 
+
+
+.middlecontainer
+{
+    float:left;
+    width:100%;
+}
+
+
+.rowafterslider
+{
+  border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:auto;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+
+.servicesthirdline 
+{
+    width:100%;
+    float: left;
+    margin-left:0%; 
+    margin-top:27.5%;
+}
+.serviceheading5
+{
+    width:25%;
+    float: left;
+    margin-left:2%;
+   
+}
+.serviceheading6
+{
+    width:25%;
+    float: left;
+    margin-left:2%;
+   
+}
+.newsfeedwrapper
+{    float:left;
+     width:29%;
+    
+        
+}
+
+
+.consultantimage
+{
+    float:left;
+    margin-left: 24%;
+}
+.consultantname
+{
+    float: left;
+    margin-left: 41% !important; 
+}
+
+[class*="span"]
+{
+    margin-left: 0px !important;
+}
+
+.span4 {
+    width: 360px !important;
+}
+
+.col-md-4 {
+    width: 100% !important;
+    float: left !important;
+    margin-top: 1% !important;
+    margin-left: -1% !important;
+    min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+
+.col-md-5 
+{
+    width: 30.667% !important;
+    margin-top:2% !important;
+    margin-left:0.5% !important;
+    position: relative;
+min-height: 1px;
+padding-right: 0px !important;
+padding-left: 0px !important;
+}
+.col-md-6
+{
+position: relative;
+min-height: 1px;
+padding-left: 25px !important;
+padding-right: 0px !important;
+width: 52% !important;
+margin-left: 4%;
+}
+
+.col-md-7
+{
+width:20.33% !important;
+margin-left: -9.5%;
+margin-top:4%; 
+}
+.rowafterslider
+{
+   border-radius: 15px 15px 0px 0px;
+     width:17%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+}
+.rowaftersliderlast
+{
+     border-radius: 15px 15px 0px 0px;
+     width:20.5%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%;
+    
+}
+.newsfeedwrapper
+{    float:left;
+     width:31%
+        
+}
+
+
+.newswrap
+{
+    float:left;
+    width:100%;
+}
+
+/*.servicewrapper 
+{
+    width:50%;
+    float: left;
+    margin-left:2%;
+}*/
+
+.servicesfirstline
+{
+    float: left;
+    width:100%;
+    margin-left: 2%;
+    margin-top:8%; 
+}
+.serviceheading1
+{
+    width:25%;
+    float: left;
+}
+.serviceheading2
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+.serviceheading3
+{
+    width:25%;
+    float: left;
+    margin-left: 2%;
+}
+
+.servicessecondline
+{
+    width:100%;
+    margin-left: 0%;
+    margin-top:0px !important;
+}
+.serviceheading4
+{
+    width:25%;
+    float: left;
+}
+
+
+.consultantwrapper
+{
+    float: left;
+    width:21%;
+    margin-left: -23%;
+  
+    
+}
+
+.container .footer-widgets
+{
+    margin-left: 10% !important;
+}
+
+.newswrap .container .row
+{
+    margin-left: 0px !important;
+}
+
+.btn 
+{
+    width:65% !important;
+    cursor: pointer;
+    height: auto;
+    border-radius: 5px;
+    font-weight: bold;
+    float: left;
+    margin-top:128px; 
+    background: #40ACDB; 
+    margin-left: -130px;
+}
+
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 991px)
+{
+ 
+
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+.taginfo .row .col-md-1
+{
+    width: 100% !important;
+    float:left;
+    padding-right: 9.6% !important;
+}
+
+.siteinfomail
+{
+    font-family:sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+        color: #555; 
+        width:20px; 
+        height:15px ;
+        float:left; 
+        margin-left:20%; 
+        margin-top:8px;
+    
+}
+
+.siteinfopn
+{
+    font-family:sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: #555; 
+        width:20px;
+        height:15px;
+        float:left;
+        margin-left:16px;
+        margin-top:8px;
+}
+    
+.btn 
+{
+   
+    cursor: pointer;
+    height: auto;
+    border-radius: 5px;
+    font-weight: bold;
+    float: left;
+    margin-top:8%; 
+    background: #40ACDB; 
+    margin-left: 0px;
+}
+.taginfo 
+{
+    display: none;
+}
+.doctorinfosection 
+{
+    margin-top:5% !important;
+        float:left;
+}
+#mega-menu-wrap-main #mega-menu-main {
+    background-color: #40ACDB;
+    margin-top: -7%;
+    margin-left: -3%;
+}
+.navbar-inner .nav-collapse, .navbar-inner .nav-collapse.collapse {
+    overflow: visible;
+    height: 0px !important;
+}
+.navbar-inner .row-fluid 
+{
+    margin-top:-16% !important;
+}
+
+.om-contact-us-link
+{
+    display: none;
+}
+    
+.livequery
+{
+    display:none;
+}
+    .consultantinfo
+    {
+        width:90% !important;
+    }
+    
+ html, body{
+  
+width: 100% !important;
+overflow-x: hidden !important;
+
+
+  }
+  
+.tc-header {
+position:           relative;
+top:                0px;
+background-color:   #00539B;
+width:100%;
+} 
+  
+.col-md-4
+{
+       width: 100%;
+       margin-top:6%;
+       margin-left: 1.5%;
+}
+   
+   .rowafterslider
+{
+    border-radius: 15px 15px 0px 0px;
+     width:45%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%; 
+     margin-top:2%;
+}
+.rowaftersliderlast
+{
+    border-radius: 15px 15px 0px 0px;
+     width:92%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%; 
+     margin-top:2%;
+}
+
+.col-md-5
+{
+    width: 92% !important;
+    margin-top:2%;
+    float: left;
+    margin-left: 0.5%;
+    
+}
+
+.col-md-6
+{
+    width: 89% !important;
+   float: left;
+   margin-left: 8%;
+}
+
+.servicesfirstline 
+{
+    float:left;
+    width:100%;
+}
+.serviceheading1
+{
+    width:31% !important;
+    float: left;
+}
+
+.serviceheading2
+{
+    width:31% !important;
+    float: left;
+    
+}
+
+
+.serviceheading3
+{
+    width:31% !important;
+    float: left;
+    
+}
+
+.servicessecondline 
+{
+    float:left;
+    width:100%;
+        
+}
+
+.serviceheading4
+{
+    width:31% !important;
+    float: left;
+}
+
+.serviceheading5
+{
+    width:31% !important;
+    float: left;
+   
+}
+.serviceheading6
+{
+    width:31% !important;
+    float: left;
+   
+}
+
+.servicessecondline
+{
+    margin-top:0% !important;
+}
+
+footer#footer {
+    text-align: left;
+}
+
+ #nav_menu-2
+{
+    float:left;
+    margin-left: -29% !important;
+}
+
+#nav_menu-3
+{
+    float: left;
+    margin-left: -12%; 
+}
+
+.menu-shifa-speaks-container
+{
+    float: left;
+    margin-left: -20%;
+        
+}
+
+#customizr-slider-1
+    {
+        display: none;
+    }
+    
+    .consultantwrapper
+{
+    float: left;
+    width:13%;
+    margin-left: 23.5%;
+    margin-top:4%;
+    
+}
+
+.consultantwrapper .col-md-6
+{
+    width:350% !important;
+}
+
+.consultantimage
+{
+    float:left;
+    margin-left:27% !important;
+}
+
+.consultantname
+{
+    float: left;
+    margin-left: 43% !important;
+        
+}
+
+#text-6
+{
+    float:left;
+    margin-left: 5%;
+}
+
+.heading h5 
+{
+    margin-top:4% !important;
+    margin-left: 4% !important; 
+}
+
+.image 
+{
+    margin-left: 20% !important;
+}
+
+.imagelast
+{
+    float:left;
+    margin-left: 38% !important;
+    margin-top: 1% !important;
+}
+
+.headinglast h5
+{
+    float:left;
+    color: #ffffff;
+    margin-top:2%;
+    margin-left: 3%;
+    //margin-top:-6% !important;
+}
+
+.consultantwrapper .col-md-6 .panel-default .panel-heading 
+{
+    padding-left:32% !important;
+}
+
+
+}
+
+
+@media only screen and (max-device-width : 767px)
+{
+ 
+.ac-container
+{
+	width:100% !important;
+	margin: 30px auto 30px auto;
+	text-align: left;
+        float: left;
+        
+}
+
+.ac-container label
+{
+	font-size: 12px !important;
+        
+}
+
+.ac-container .row .col-md-4
+{
+    margin-top: 0% !important;
+}
+
+.taginfo
+{
+    display: none;
+}
+
+.navbar .navbar-inner .social-block {
+/*    width: auto !important;
+    margin: 14px 0 0;
+    margin-top: -42%;
+    */
+ display: none;
+}
+    
+.navbar
+{
+    float: left !important;
+   
+}
+
+.om-contact-us-link
+{
+    display: none;
+}
+    
+.livequery
+{
+    display:none;
+}
+    .consultantinfo
+    {
+        width:90% !important;
+    }
+    
+ html, body{
+  
+width: 100% !important;
+overflow-x: hidden !important;
+
+
+  }
+  
+.tc-header {
+position:           relative;
+top:                0px;
+background-color:   #00539B;
+width:100%;
+} 
+  
+    .col-md-4
+   {
+       width: 100%;
+       margin-top:6%; 
+   }
+   
+   .rowafterslider
+{
+    border-radius: 15px 15px 0px 0px;
+     width:91%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%; 
+     margin-top:2%;
+}
+.rowaftersliderlast
+{
+    border-radius: 15px 15px 0px 0px;
+     width:91%;
+     background-color: #00539B;
+     height:52px;
+     float: left;
+     margin-left:2%; 
+     margin-top:2%;
+}
+
+.col-md-5
+{
+    width: 100% !important;
+    margin-top:2%;
+    float: left;
+    margin-left: -3.5% !important;
+    
+}
+
+.col-md-6
+{
+    width: 89% !important;
+   float: left;
+   margin-left: 4%;
+}
+
+.serviceheading1
+{
+    width:45% !important;
+    float: left;
+}
+
+.serviceheading2
+{
+    width:45% !important;
+    float: right;
+    
+}
+.serviceheading3
+{
+    width:45% !important;
+    float: left;
+    
+}
+
+.serviceheading4
+{
+    width:45% !important;
+    float: right;
+}
+
+.serviceheading5
+{
+    width:45% !important;
+    float: left;
+   
+}
+.serviceheading6
+{
+    width:45% !important;
+    float: right;
+   
+}
+
+.servicessecondline
+{
+    margin-top:0% !important;
+}
+
+footer#footer {
+    text-align: left;
+}
+
+ #nav_menu-2
+{
+    float:left;
+    margin-left: -29% !important;
+}
+
+#nav_menu-3
+{
+    float: left;
+    margin-left: -12%; 
+}
+
+.menu-shifa-speaks-container
+{
+    float: left;
+    margin-left: -20%;
+        
+}
+
+#mega-menu-wrap-main .mega-menu-toggle {
+    cursor: pointer;
+    text-align: left;
+    line-height: 40px;
+    color: #FFF;
+    width:109%;
+    margin-top:-16%;
+    margin-left:-4%;
+}
+
+#mega-menu-wrap-main .mega-menu-toggle::before 
+   {
+   
+    font-family: "dashicons";
+    font-size: 24px;
+    margin: 1px 5px;
+    float: left;
+    text-align: left !important;
+}
+
+#customizr-slider-1
+    {
+        display: none;
+    }
+    
+    .consultantwrapper
+{
+    float: left;
+    width:21%;
+    margin-left: 12.5%;
+    margin-top:4%;
+    
+}
+
+.consultantwrapper .col-md-6
+{
+    width:350% !important;
+}
+
+.consultantimage
+{
+    float:left;
+    margin-left:0px !important;
+}
+
+.consultantname
+{
+    float: left;
+    margin-left: 50px !important;
+        
+}
+
+#text-6
+{
+    float:left;
+    margin-left: 5%;
+}
+
+.imagelast
+{
+    float: left;
+    margin-top:0% !important;
+    margin-left: 4%;
+    
+}
+
+.headinglast h5
+{
+    color:#ffffff;
+    float:left;
+    margin-left:6%;
+}
+
+}
+

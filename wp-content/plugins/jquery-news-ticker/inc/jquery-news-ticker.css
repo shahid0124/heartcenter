@@ -1,0 +1,227 @@
+.sidebarwrap
+ {
+   float:left;
+   margin-left:-66px;
+ }
+.sidebarheading
+{
+	background-color: #F5F5F5;
+	height: 30px;
+	margin-bottom: 16px;
+	color: #333;
+	border-color: #DDD;
+	border-bottom-width: 1px;
+}
+.sidebarheading h4
+{
+   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+   font-size:14px;
+   line-height:1.428571429;
+}
+
+.eventscontainer
+{
+   margin-top:-15px;
+}
+
+#events
+{
+  width:350px; overflow:auto; border:1px solid #aaaaaa; margin-top:-15px; height:auto; position:absolute;
+
+}
+#events dt{
+font:normal 2px Georgia; padding:0 2px 2px 2px;
+  background-color:black;  border:1px solid #ffffff;
+  border-bottom:none; border-right:none;
+}
+#events dd {
+ margin-left:0; font:normal 11px Verdana; padding:0 10px 10px 10px;
+  border-bottom:1px solid #aaaaaa; background-color:white;
+  border-left:1px solid #ffffff;
+}
+#events dd.last { border-bottom:1px solid #ffffff; }
+
+
+
+
+ #ticker{
+  
+#ticker dd.last { border-bottom:1px solid #ffffff; }
+
+ /** sidebarheading **/
+ 
+.sidebarnewsfeed
+{
+  
+   float:left;
+   margin-top:10px;
+   margin-left:-66px;
+}
+
+
+/*.news-item
+{
+    padding:4px 4px;
+    margin:0px;
+    border-bottom:1px dotted #555; 
+}
+
+
+
+
+
+
+
+.ntitle
+{
+font-family:Arial, Helvetica, sans-serif;
+background-color: #D92131;
+color: #fff;
+float:left;
+width:12%;
+height: 30px;
+font-weight:bold;
+text-align:center;
+padding:5px;
+}
+.nzclass
+{
+float:left;
+width:88%;
+}
+.gticker-wrapper.has-js {
+	
+	padding: 0px 20px;
+	height: 30px;
+	display: block;
+
+	background-color: #1b5f7d;
+	font-size:12px;
+	text-align:center;
+}
+.gticker {
+	width: 80%;
+	height: 23px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+}
+.gticker-title {
+	padding-top: 9px;
+	font-weight: bold;
+}
+.gticker-content {
+	margin: 0px;
+	padding-top: 9px;
+	position: absolute;
+	overflow: hidden;
+	white-space: nowrap;
+	line-height: 1.2em;
+}
+.gticker-content:focus {
+	none;
+}
+.gticker-content a {
+	text-decoration: none;
+        color:#fff !important;	
+}
+.gticker-content a:hover {
+	text-decoration: underline;	
+}
+.gticker-swipe {
+	padding-top: 9px;
+	position: absolute;
+	top: 0px;
+	background-color: #1b5f7d;
+	display: block;
+	width: 97%;
+	height: 23px; 
+}
+.gticker-swipe span {
+	margin-left: 1px;
+	background-color: #1b5f7d;
+	border-bottom: 1px solid #1b5f7d;
+	height: 12px;
+	width: 7px;
+	display: block;
+}
+.gticker-controls {
+	padding: 6px 0px 0px 0px;
+	list-style-type: none;
+	float: left;
+	vertical-align:top;
+}
+.gticker-controls li {
+	padding: 0px;
+	margin-left: 5px;
+	float: left;
+	cursor: pointer;
+	height: 16px;
+	width: 16px;
+	display: block;
+}
+.gticker-controls li.jnt-play-pause {
+	background-image: url('../images/controls.png');
+	background-position: 32px 16px;
+}
+.gticker-controls li.jnt-play-pause.over {
+	background-position: 32px 32px;
+}
+.gticker-controls li.jnt-play-pause.down {
+	background-position: 32px 0px;
+}
+.gticker-controls li.jnt-play-pause.paused {
+	background-image: url('../images/controls.png');	
+	background-position: 48px 16px;
+}
+.gticker-controls li.jnt-play-pause.paused.over {
+	background-position: 48px 32px;
+}
+.gticker-controls li.jnt-play-pause.paused.down {
+	background-position: 48px 0px;
+}
+.gticker-controls li.jnt-prev {
+	background-image: url('../images/controls.png');
+	background-position: 0px 16px;		
+}
+.gticker-controls li.jnt-prev.over {
+	background-position: 0px 32px;		
+}
+.gticker-controls li.jnt-prev.down {
+	background-position: 0px 0px;		
+}
+.gticker-controls li.jnt-next {
+	background-image: url('../images/controls.png');	
+	background-position: 16px 16px;	
+}
+.gticker-controls li.jnt-next.over {
+	background-position: 16px 32px;	
+}
+.gticker-controls li.jnt-next.down {	
+	background-position: 16px 0px;	
+}
+.js-hidden {
+	display: none;
+}
+.no-js-news {
+	padding: 10px 0px 0px 45px; 
+	color: #fff;
+}
+.left .gticker-swipe {
+	/*left: 80px;*/
+}
+.left .gticker-controls, .left .gticker-content, .left .gticker-title, .left .gticker {
+    float: left;
+}
+.left .gticker-controls {
+    padding-left: 6px;
+}
+.right .gticker-swipe {
+	/*right: 80px;*/
+}
+.right .gticker-controls, .right .gticker-content, .right .gticker-title, .right .gticker {
+    float: right;
+}
+.right .gticker-controls {
+    padding-right: 6px;
+}*/

@@ -1,0 +1,1 @@
+[21-May-2016 23:58:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/almoqeet/public_html/cellbionics/wp-content/themes/Avada/index.php on line 1

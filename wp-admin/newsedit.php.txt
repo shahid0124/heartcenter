@@ -1,0 +1,22 @@
+
+<div class="wrap">
+    <?php    echo "<h2>" . __( 'Shifa News and Events', 'oscimp_trdom' ) . "</h2>"; ?>
+     
+    <form name="oscimp_form" method="post" action="" onSubmit="return vaidateImage();>
+        <input type="hidden" name="oscimp_hidden" value="Y">
+        <?php    echo "<h4>" . __( 'Please fill all the required Fields' ) . "</h4>"; ?>
+        <p style="font-weight:bold"><?php _e("Title: " ); ?><input type="text" name="title" value="" size="20" style="margin-left:80px;"><?php _e(" ex: Title of the post" ); ?></p>
+        <p style="font-weight:bold"><?php _e("Short Description: " ); ?><input type="text" name="shortdescription" value="" size="20" ";><?php _e(" News Heading" ); ?></p>
+        <p style="font-weight:bold"><?php _e("Long Description " ); ?><input type="text" name="longdescription" value="" size="20" style="margin-left:8px"><?php _e(" Long Description" ); ?></p>
+        <p style="font-weight:bold"><?php _e("Start Date " ); ?><input type="datetime" name="startdate" value="" size="20" style="margin-left:49px;"><?php _e(" Start Date of the Post" ); ?></p>
+        <p style="font-weight:bold"><?php _e("End Date: " ); ?><input type="datetime" name="enddate" value="" size="20" style="margin-left:52px;"><?php _e("End Date of the post" ); ?></p>
+        <p style="font-weight:bold"><?php _e("Attachments: " ); ?><input type="file" name="attachment" id="attachment" value="" size="20" style="margin-left:28px;"><?php _e(" Any Attachments you want to be included" ); ?></p>
+         
+     
+        <p class="submit">
+        <input type="submit" name="Submit" value="<?php _e('Update News', 'oscimp_trdom' ) ?>" />
+		<input type="submit" name="Submit1" value="<?php _e('View and Edit News', 'oscimp_trdom' ) ?>" />
+        </p>
+		
+		
+    </form>
